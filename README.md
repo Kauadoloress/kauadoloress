@@ -34,10 +34,6 @@ a software developer in training from Brazil br</h3>
 </div>
 
 <br/>
-<hr/>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
