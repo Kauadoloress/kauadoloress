@@ -11,7 +11,7 @@ a software developer in training from Brazil br</h3>
  
  🔭 Student at **Instituto PROA.**
  
- 🌱 Atualmente estou aprendendo **HTML, CSS, JavaScript, Java**
+ 🌱 I’m currently learning **HTML, CSS, JavaScript, Java**
 
  </div>
  
