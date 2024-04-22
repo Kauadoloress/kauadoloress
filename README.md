@@ -39,6 +39,6 @@ a software developer in training from Brazil br</h3>
 <div align=center>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauadoloress&show_icons=true&locale=en" alt="kauadoloress" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kauadoloress&" alt="kauadoloress" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauadoloress&show_icons=true&locale=en" alt="kauadoloress" /></p>
 </div>
 
