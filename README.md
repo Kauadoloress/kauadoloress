@@ -9,9 +9,9 @@ a software developer in training from Brazil br</h3>
 
 <div align="center">
  
- 🔭 Student at **Instituto PROA.**
+ 🔭 **JAVA Developer**
  
- 🌱 I’m currently learning **HTML, CSS, JavaScript, Java**
+ 🌱 I’m currently learning **Java, AWS, MySQL, SpringBoot**
 
  </div>
  
