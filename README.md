@@ -2,9 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+👋;+me+chamo+Kauã+Dolores!;" />
 </h1>
 
-<h3 align="center">A technology enthusiast and
-a software developer in training from Brazil br</h3>
 
+<h3 align="center">Aspiring Cybersecurity Analyst | Blue Team Enthusiast | 🇧🇷</h3>
+<div align="center">
+  <p>🛡️ Focused on <strong>Cybersecurity Fundamentals, Networking, and Linux</strong></p>
+  <p>🔍 Learning through <strong>TryHackMe</strong>, labs, and hands-on exploration</p>
+</div>
 <br/>
  
 <div align="center"> 
