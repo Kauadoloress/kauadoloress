@@ -6,14 +6,6 @@
 a software developer in training from Brazil br</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 **JAVA Developer**
- 
- 🌱 I’m currently learning **Java, AWS, MySQL, SpringBoot**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:doloresskaua@gmail.com">
@@ -23,14 +15,24 @@ a software developer in training from Brazil br</h3>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<h2 align="center">🔗 Labs & Platforms</h2>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Lloydoloress">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kauadoloress/tryhackme-writeups">
+    <img src="https://img.shields.io/badge/Writeups-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,mysql," /><br>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,vscode,wireshark" />
+
 </div>
 
 <br/>
