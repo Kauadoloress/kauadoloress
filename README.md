@@ -17,7 +17,7 @@ Neste espaço, documento minha evolução técnica por meio de laboratórios pr�
 ### 📂 Portfólio de Laboratórios Práticos
 
 Os meus principais projetos de validação técnica estão centralizados no repositório principal:
-👉 **[Acesse aqui o portfolio-cybersecurity](https://github.com/Kauadoloress/portfolio)**
+👉 **[Acesse aqui o portfolio-cybersecurity](https://github.com/Kauadoloress/Portifolio)**
 
 #### 🌐 Incidentes de Redes Documentados:
 * **Detecção de Ataque SYN Flood (DoS):** Análise detalhada de anomalias de tráfego e volumetria de pacotes utilizando logs `.csv` e gráficos do Wireshark.
