@@ -33,14 +33,3 @@ Os meus principais projetos de validação técnica estão centralizados no repo
 
 ---
 
-### 🤝 Vamos nos conectar?
-
-Seja para trocar experiências sobre defesa cibernética, arquitetura em nuvem ou oportunidades no mercado de tecnologia, sinta-se à vontade para me contatar:
-
-* 💼 **LinkedIn:** [Acesse meu perfil profissional aqui](SEU_LINK_DO_LINKEDIN)
-* ✉️ **E-mail:** [Seu e-mail de contato aqui]
-
----
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kauadoloress&show_icons=true&locale=en" alt="kauadoloress" /></p>
-
