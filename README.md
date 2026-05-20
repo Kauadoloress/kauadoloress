@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Kauã Nascimento Dolores
 
-Análise de Sistemas | Suporte de TI | Estudante de Cibersegurança & Nuvem
+Estudante de Cibersegurança & Nuvem
 
 Neste espaço, documento minha evolução técnica por meio de laboratórios práticos, investigações de incidentes e arquitetura de infraestrutura segura. Meu objetivo é consolidar habilidades essenciais para atuação como **Analista de SOC (Blue Team)** e **Cloud Security**.
 
@@ -17,7 +17,7 @@ Neste espaço, documento minha evolução técnica por meio de laboratórios pr�
 ### 📂 Portfólio de Laboratórios Práticos
 
 Os meus principais projetos de validação técnica estão centralizados no repositório principal:
-👉 **[Acesse aqui o portfolio-cybersecurity](https://github.com/Kauadoloress/portfolio-cybersecurity)**
+👉 **[Acesse aqui o portfolio-cybersecurity](https://github.com/Kauadoloress/portfolio)**
 
 #### 🌐 Incidentes de Redes Documentados:
 * **Detecção de Ataque SYN Flood (DoS):** Análise detalhada de anomalias de tráfego e volumetria de pacotes utilizando logs `.csv` e gráficos do Wireshark.
